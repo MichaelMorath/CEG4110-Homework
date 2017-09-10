@@ -1,0 +1,6 @@
+# Ignore everything
+*
+# Don't ignore directories
+!*/
+# Don't ignore .java files
+!*.java
